@@ -3,7 +3,7 @@ showReadingTime: false
 date: 2023-03-08
 ---
 
-Hi! 
+Hello! 
 
 I am a research fellow in the School of Maths and Physics at the University of Queensland in Brisbane, Australia. I work on integral field spectroscopic data, in particular using the MUSE instrument on the VLT, with two teams - The Close AGN Reference Survey (CARS) and the Physics at High Angular Resolution in Nearby Galaxies (PHANGS) teams. CARS looks at local active galaxies, while PHANGs nearby star forming galaxies. I also work with the galaxy pair merger FIRE simulations to study how galaxy kinematics evolve as galaxies collide.
 
