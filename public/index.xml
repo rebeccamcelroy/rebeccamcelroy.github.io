@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Rebecca McElroy</title>
+    <link>https://rebeccamcelroy.github.io/</link>
+    <description>Recent content on Dr Rebecca McElroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://rebeccamcelroy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rebeccamcelroy.github.io/about_me/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebeccamcelroy.github.io/about_me/</guid>
+      <description>Hi!
+I am a research fellow in the School of Maths and Physics at the University of Queensland in Brisbane, Australia. I work on integral field spectroscopic data, in particular using the MUSE instrument on the VLT, with two teams - The Close AGN Reference Survey (CARS) and the Physics at High Angular Resolution in Nearby Galaxies (PHANGS) teams. CARS looks at local active galaxies, while PHANGs nearby star forming galaxies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rebeccamcelroy.github.io/about_me/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

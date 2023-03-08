@@ -1,0 +1,18 @@
+# config/_default/languages.en.toml
+
+title = "Dr Rebecca McElroy"
+
+[author]
+name = "Dr Rebecca McElroy"
+image = "img/pink.jpg"
+headline = "Research Fellow, Data Scientist, Digital Artist"
+bio = "Research Fellow, Data Scientist, Digital Artist"
+
+links = [
+  { twitter = "https://twitter.com/re_mcelroy" },
+  { github = "https://github.com/rebeccamcelroy" },
+  { linkedin = "https://www.linkedin.com/in/rebecca-mcelroy/" },
+  { email = "mailto:r.mcelroy@uq.edu.au" },
+  { instagram = "https://www.instagram.com/paintingbybex/"},
+  { orcid = "https://orcid.org/0000-0002-7960-5808"}
+  ]

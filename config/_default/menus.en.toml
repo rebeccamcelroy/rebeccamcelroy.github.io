@@ -1,0 +1,47 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "About Me"
+  weight = 20
+
+[[main]]
+  name = "Bio"
+  parent = "About Me"
+  pageRef = "about_me"
+  weight = 20
+
+[[main]]
+  name = "CV"
+  parent = "About Me"
+  url = "https://www.overleaf.com/read/zqvqnywtcsjh"
+  weight = 20
+
+[[main]]
+  name = "Resume"
+  parent = "About Me"
+  url = "https://www.canva.com/design/DAFckUD465A/Z7iO5JlEorsvjdXVQrdPLA/view?utm_content=DAFckUD465A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+  weight = 20
+
+
+[[main]]
+  name = "Art"
+  weight = 20
+
+[[main]]
+  name = "What I do"
+  parent = "Art"
+  pageRef = "art_about"
+  weight = 20
+
+[[main]]
+  name = "Insta"
+  parent = "Art"
+  url = "https://www.instagram.com/paintingbybex"
+  weight = 20
+
+[[main]]
+  name = "Science art"
+  parent = "Art"
+  weight = 20
+
+

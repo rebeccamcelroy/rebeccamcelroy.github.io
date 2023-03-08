@@ -1,0 +1,6 @@
+# config/_default/config.toml
+
+baseURL = "https://rebeccamcelroy.github.io/"
+languageCode = "en"
+title = "Dr Rebecca McElroy"
+homepage.layout = "hero"
