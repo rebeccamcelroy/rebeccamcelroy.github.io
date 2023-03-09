@@ -8,40 +8,40 @@
   name = "Bio"
   parent = "About Me"
   pageRef = "about_me"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "CV"
   parent = "About Me"
   url = "cv_rmcelroy.pdf"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Resume"
   parent = "About Me"
   url = "resume_rmcelroy.pdf"
-  weight = 20
+  weight = 3
 
 
 [[main]]
-  name = "Art"
+  name = "My Art"
   weight = 20
 
 [[main]]
-  name = "What I do"
+  name = "About"
   parent = "Art"
   pageRef = "art_about"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "Insta"
   parent = "Art"
   url = "https://www.instagram.com/paintingbybex"
-  weight = 20
+  weight = 2
 
 [[main]]
-  name = "Science art"
+  name = "Science Illustration"
   parent = "Art"
-  weight = 20
+  weight = 3
 
 
