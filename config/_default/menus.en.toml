@@ -13,13 +13,13 @@
 [[main]]
   name = "CV"
   parent = "About Me"
-  url = "https://www.overleaf.com/read/zqvqnywtcsjh"
+  url = "/pdf/cv_rmcelroy.pdf"
   weight = 20
 
 [[main]]
   name = "Resume"
   parent = "About Me"
-  url = "https://www.canva.com/design/DAFckUD465A/Z7iO5JlEorsvjdXVQrdPLA/view?utm_content=DAFckUD465A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+  url = "/pdf/resume_rmcelroy.pdf"
   weight = 20
 
 
