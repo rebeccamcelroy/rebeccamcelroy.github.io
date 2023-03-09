@@ -42,6 +42,7 @@
 [[main]]
   name = "Science Illustration"
   parent = "My Art"
+  pageRef = "science_art"
   weight = 3
 
 
