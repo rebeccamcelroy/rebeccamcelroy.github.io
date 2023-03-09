@@ -29,19 +29,19 @@
 
 [[main]]
   name = "About"
-  parent = "Art"
+  parent = "My Art"
   pageRef = "art_about"
   weight = 1
 
 [[main]]
   name = "Insta"
-  parent = "Art"
+  parent = "My Art"
   url = "https://www.instagram.com/paintingbybex"
   weight = 2
 
 [[main]]
   name = "Science Illustration"
-  parent = "Art"
+  parent = "My Art"
   weight = 3
 
 
