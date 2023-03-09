@@ -13,13 +13,13 @@
 [[main]]
   name = "CV"
   parent = "About Me"
-  url = "/pdf/cv_rmcelroy.pdf"
+  url = "/static/cv_rmcelroy.pdf"
   weight = 20
 
 [[main]]
   name = "Resume"
   parent = "About Me"
-  url = "/pdf/resume_rmcelroy.pdf"
+  url = "/static/resume_rmcelroy.pdf"
   weight = 20
 
 
