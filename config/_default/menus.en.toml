@@ -45,4 +45,13 @@
   url = "https://drive.google.com/drive/folders/1C8KAJDvMLDopVWPV1iUUh7cJ2aeBp6G4?usp=sharing"
   weight = 3
 
+[[main]]
+  name = "Tools"
+  weight = 20
+
+  [[main]]
+  name = "Brisbane Meal Deals"
+  parent = "Tools"
+  pageRef = "meal_deals"
+  weight = 1
 
