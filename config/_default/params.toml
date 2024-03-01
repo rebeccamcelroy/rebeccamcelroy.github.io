@@ -2,7 +2,7 @@
 
 defaultBackgroundImage = "/img/jwst_bg.jpg"
 defaultAppearance = "dark"
-colorScheme = "neon"
+colorScheme = "princess"
 logo = "/img/cat.png"
 highlightCurrentMenuArea = true
 article.showHero = true
