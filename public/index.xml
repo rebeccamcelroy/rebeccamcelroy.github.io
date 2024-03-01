@@ -5,16 +5,41 @@
     <link>https://rebeccamcelroy.github.io/</link>
     <description>Recent content on Dr Rebecca McElroy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://rebeccamcelroy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2024 Dr Rebecca McElroy</copyright>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rebeccamcelroy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://rebeccamcelroy.github.io/about_me/</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://rebeccamcelroy.github.io/about_me/</guid>
-      <description>Hi!
-I am a research fellow in the School of Maths and Physics at the University of Queensland in Brisbane, Australia. I work on integral field spectroscopic data, in particular using the MUSE instrument on the VLT, with two teams - The Close AGN Reference Survey (CARS) and the Physics at High Angular Resolution in Nearby Galaxies (PHANGS) teams. CARS looks at local active galaxies, while PHANGs nearby star forming galaxies.</description>
+      <description>Hello!
+I am a Research Fellow in the Centre for Astrophysics at the University of Southern Queensland in Brisbane, Australia. I work on integral field spectroscopic data, in particular using the MUSE instrument on the VLT. The Close AGN Reference Survey looks at local active galaxies across the electromagnetic spectrum and I also work with the galaxy merger simulations to study how galaxy kinematics evolve as galaxies collide.
+Previously, I was at the University of Queensland, the Sydney Institute for Astronomy in the School of Physics at the University of Sydney, and the Max Plank Institute for Astronomy in Heidelberg, Germany.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rebeccamcelroy.github.io/about_me/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebeccamcelroy.github.io/meal_deals/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebeccamcelroy.github.io/meal_deals/</guid>
+      <description>Love a good meal deal? Live in Brisbane? Me too!
+Check out my (WIP) list of current lunch and dinner deals in central Brisbane. Click here to view or request edit access if you want to contribute.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rebeccamcelroy.github.io/art_about/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebeccamcelroy.github.io/art_about/</guid>
+      <description>Art has been a lifelong hobby of mine. I have always loved to draw and paint, and recently I have been experimenting with digital art. On my instagram I primarily post art based on TV and video games, with a focus on portraiture. Feel free to DM me if you would commission a portrait of your favourite character!
+On this site you can also find my science illustration scribbles, which are free for you to use with attribution.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rebeccamcelroy.github.io/art_about/featured.png" />
     </item>
     
   </channel>
