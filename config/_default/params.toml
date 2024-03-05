@@ -1,6 +1,6 @@
 # config/_default/params.toml
 
-defaultBackgroundImage = "/img/jwst_bg.jpg"
+defaultBackgroundImage = "/img/orion.png"
 defaultAppearance = "dark"
 colorScheme = "princess"
 logo = "/img/cat.png"
