@@ -27,36 +27,36 @@
   weight = 20
 
 [[main]]
-  name = "My Papers"
+  name = "Papers"
   parent = "Research"
   url = "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22mcelroy%2C%20r%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   weight = 10
 
 [[main]]
-  name = "My Art"
+  name = "Art"
   weight = 20
 
 [[main]]
   name = "About"
-  parent = "My Art"
+  parent = "Art"
   pageRef = "art_about"
   weight = 1
 
 [[main]]
   name = "Instagram"
-  parent = "My Art"
+  parent = "Art"
   url = "https://www.instagram.com/paintingbybex"
   weight = 2
 
 [[main]]
   name = "Science Illustration"
-  parent = "My Art"
+  parent = "Art"
   url = "https://drive.google.com/drive/folders/1C8KAJDvMLDopVWPV1iUUh7cJ2aeBp6G4?usp=sharing"
   weight = 3
 
 [[main]]
   name = "Redbubble"
-  parent = "My Art"
+  parent = "Art"
   url = "https://www.redbubble.com/people/paintingbybex/shop"
   weight = 4
 
