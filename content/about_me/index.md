@@ -3,7 +3,7 @@ showReadingTime: false
 date: 2024-01-10
 ---
 
-Hello! 
+Hello!!
 
 I am a Research Fellow in the Centre for Astrophysics at the University of Southern Queensland in Brisbane, Australia. I work on integral field spectroscopic data, in particular using the MUSE instrument on the VLT. [The Close AGN Reference Survey](https://cars-survey.github.io) looks at local active galaxies across the electromagnetic spectrum and I also work with the galaxy merger simulations to study how galaxy kinematics evolve as galaxies collide.
 
