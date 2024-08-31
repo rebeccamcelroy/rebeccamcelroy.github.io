@@ -64,15 +64,16 @@
   name = "Tools"
   weight = 20
 
+[[main]]
+  name = "Baby Name Checker"
+  parent = "Tools"
+  url = "https://name-check.streamlit.app/"
+  weight = 1
+
   [[main]]
   name = "Brisbane Meal Deals"
   parent = "Tools"
   pageRef = "meal_deals"
   weight = 2
 
-[[main]]
-  name = "Baby Name Checker"
-  parent = "Tools"
-  url = "https://name-check.streamlit.app/"
-  weight = 1
 
