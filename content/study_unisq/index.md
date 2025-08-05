@@ -1,6 +1,6 @@
 ---
 showReadingTime: false
-date: 2025-08-1
+date: 2025-08-01
 ---
 
 Interested in studying Astronomy, Astrophysics, or Space Science? UniSQ is home to Queensland's only professional observatory and the iLaunch programme, a collaboration of three universities and 20+ industry partners to boost Australia’s sovereign space capability.

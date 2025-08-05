@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rebeccamcelroy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rebeccamcelroy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://rebeccamcelroy.github.io/study_unisq/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebeccamcelroy.github.io/study_unisq/</guid>
+      <description>Interested in studying Astronomy, Astrophysics, or Space Science? UniSQ is home to Queensland&amp;rsquo;s only professional observatory and the iLaunch programme, a collaboration of three universities and 20+ industry partners to boost Australia’s sovereign space capability.
+Our world-class academics study astronomical objects from comets to quasars. In addition to hosting one of Australia&amp;rsquo;s largest exoplanet groups, we have scientists working on solar system objects, stars, galaxies, and black holes. I am currently building an extragalactic and active galaxies group at UniSQ.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rebeccamcelroy.github.io/study_unisq/featured.png" />
+    </item>
     
     <item>
       <title></title>
@@ -53,17 +64,6 @@ Previously, I was at the University of Queensland, the Sydney Institute for Astr
       <description>Love a good meal deal? Live in Brisbane? Me too!
 Check out my (WIP) list of current lunch and dinner deals in central Brisbane. Click here to view or request edit access if you want to contribute.</description>
       
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rebeccamcelroy.github.io/study_unisq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rebeccamcelroy.github.io/study_unisq/</guid>
-      <description>Interested in studying Astronomy, Astrophysics, or Space Science? UniSQ is home to Queensland&amp;rsquo;s only professional observatory and the iLaunch programme, a collaboration of three universities and 20+ industry partners to boost Australia’s sovereign space capability.
-Our world-class academics study astronomical objects from comets to quasars. In addition to hosting one of Australia&amp;rsquo;s largest exoplanet groups, we have scientists working on solar system objects, stars, galaxies, and black holes. I am currently building an extragalactic and active galaxies group at UniSQ.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rebeccamcelroy.github.io/study_unisq/featured.png" />
     </item>
     
   </channel>
