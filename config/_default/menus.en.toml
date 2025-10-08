@@ -39,6 +39,13 @@
   weight = 2
 
 [[main]]
+  name = "Useful links"
+  parent = "Research"
+  pageRef = "useful_links"
+  weight = 2
+
+
+[[main]]
   name = "Art"
   weight = 20
 
