@@ -1,0 +1,36 @@
+{{- /* Grab params safely */ -}}
+{{- $src    := .Get "src" -}}
+{{- $name   := .Get "name" | default "Unnamed" -}}
+{{- $role   := .Get "role" -}}
+{{- $email  := .Get "email" -}}
+{{- $web    := .Get "web" -}}
+{{- $github := .Get "github" -}}
+
+{{- /* Try to find the image in this page bundle's resources */ -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+
+<div class="person-card" style="display:flex;gap:1rem;align-items:center;margin:1rem 0;">
+  {{- with $img -}}
+    {{- $thumb := .Fit "600x600 webp" -}}
+    <img
+      src="{{ $thumb.RelPermalink }}"
+      alt="{{ $name }}"
+      width="{{ $thumb.Width }}" height="{{ $thumb.Height }}"
+      loading="lazy"
+      style="border-radius:9999px;width:120px;height:120px;object-fit:cover;">
+  {{- else -}}
+    <div style="width:120px;height:120px;background:#ddd;border-radius:9999px;"></div>
+  {{- end -}}
+
+  <div>
+    <h3 style="margin:0 0 .25rem 0;">{{ $name }}</h3>
+    {{- with $role -}}<div style="opacity:.7;margin-bottom:.25rem;">{{ . }}</div>{{- end -}}
+    <p style="margin:.25rem 0;">{{ .Inner | markdownify }}</p>
+
+    <div style="display:flex;gap:.75rem;flex-wrap:wrap;">
+      {{- with $email -}}<a href="mailto:{{ . }}">Email</a>{{- end -}}
+      {{- with $web -}}<a href="{{ . }}">Website</a>{{- end -}}
+      {{- with $github -}}<a href="{{ . }}">GitHub</a>{{- end -}}
+    </div>
+  </div>
+</div>
