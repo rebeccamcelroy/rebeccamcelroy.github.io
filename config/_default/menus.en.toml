@@ -36,13 +36,19 @@
   name = "Study @ UniSQ"
   parent = "Research"
   pageRef = "study_unisq"
+  weight = 1
+
+[[main]]
+  name = "Galaxies @ UniSQ"
+  parent = "Research"
+  pageRef = "group"
   weight = 2
 
 [[main]]
   name = "Useful links"
   parent = "Research"
   pageRef = "useful_links"
-  weight = 2
+  weight = 3
 
 
 [[main]]

@@ -1,6 +1,6 @@
 ---
 showReadingTime: false
-date: 2024-08-28
+#date: 2024-08-28
 ---
 
 Science illustration combines my two passions. I started out doing simple drawings for talks and have recently been illustrating astronomical observatories. You can find my work on [instagram](instagram.com/paintingbybex), [twitter](twitter.com/re_mcelroy), and even [redbubble](https://www.redbubble.com/people/paintingbybex/shop) if you would like a sticker or mug. 

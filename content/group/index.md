@@ -5,6 +5,9 @@ menu:
   main:
     name: "People"
     weight: 20
+showAuthor: false
+showDate: false       # optional – also hides the date if it appears
+showReadingTime: false
 ---
 
 
@@ -21,7 +24,7 @@ Combining archival photographic plates with contemporary multi-wavelength observ
 Exploring how galaxy interactions influence star formation using the SAMI Galaxy Survey. Her research looks at the spatial distribution of star formation in paired and isolated galaxies to quantify merger-driven triggers and quenching.
 {{< /person >}}
 
-{{< person src="josh.jpg" name="Joshua Bardwell" role="PhD Student" >}}
+{{< person src="josh.png" name="Joshua Bardwell" role="PhD Student" >}}
 Investigating the stellar populations and host-galaxy environments of nearby AGN observed in the Close AGN Reference Survey. Combining MUSE and KOALA integral-field spectroscopy to disentangle AGN ionization, star-formation histories, and feedback signatures.
 {{< /person >}}
 

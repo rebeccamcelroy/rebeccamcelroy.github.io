@@ -1,11 +1,11 @@
 ---
 showReadingTime: false
-date: 2025-08-01
+#date: 2025-08-01
 ---
 
 Interested in studying Astronomy, Astrophysics, or Space Science? UniSQ is home to Queensland's only professional observatory and the iLaunch programme, a collaboration of three universities and 20+ industry partners to boost Australia’s sovereign space capability.
 
-Our world-class academics study astronomical objects from comets to quasars. In addition to hosting one of Australia's largest exoplanet groups, we have scientists working on solar system objects, stars, galaxies, and black holes. I am currently building an extragalactic and active galaxies group at UniSQ.  
+Our world-class academics study astronomical objects from comets to quasars. In addition to hosting one of Australia's largest exoplanet groups, we have scientists working on solar system objects, stars, galaxies, and black holes. I lead an extragalactic and active galaxies research group at UniSQ.  
 
 Follow the below links to find more information on our degrees, facilities, staff, and more! 
 
