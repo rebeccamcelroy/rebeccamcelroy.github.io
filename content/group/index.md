@@ -1,10 +1,6 @@
 ---
 title: "Galaxies @ UniSQ"
 layout: "group"       # we'll make a simple layout (optional; see Option A.2)
-menu:
-  main:
-    name: "People"
-    weight: 20
 showAuthor: false
 showDate: false       # optional – also hides the date if it appears
 showReadingTime: false
