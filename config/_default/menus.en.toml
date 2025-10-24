@@ -45,6 +45,12 @@
   weight = 2
 
 [[main]]
+  name = "Outreach"
+  parent = "Outreach"
+  pageRef = "outreach"
+  weight = 2
+
+[[main]]
   name = "Useful links"
   parent = "Research"
   pageRef = "useful_links"
