@@ -2,7 +2,7 @@
 
 [[main]]
   name = "About Me"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "Bio"
@@ -24,7 +24,7 @@
 
 [[main]]
   name = "Research"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Papers"
@@ -47,7 +47,7 @@
 [[main]]
   name = "Outreach"
   pageRef = "outreach"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Useful links"
@@ -58,7 +58,7 @@
 
 [[main]]
   name = "Art"
-  weight = 20
+  weight = 4
 
 [[main]]
   name = "About"
