@@ -13,7 +13,7 @@
 [[main]]
   name = "CV"
   parent = "About Me"
-  url = "/files/CV_1025.pdf"
+  url = "https://drive.google.com/file/d/1aUFnKiNKeyGSgvzmiwGYJa0k701a6G0H/view?usp=sharing"
   weight = 2
 
 [[main]]
