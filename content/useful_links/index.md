@@ -1,6 +1,7 @@
 ---
 showReadingTime: false
-#date: 2025-10-08
+showDate: false       # optional – also hides the date if it appears
+showReadingTime: false
 ---
 
 Here I've collated useful links that may come in handy. 

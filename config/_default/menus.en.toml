@@ -13,13 +13,13 @@
 [[main]]
   name = "CV"
   parent = "About Me"
-  url = "cv_rmcelroy.pdf"
+  url = "/assets/img/CV_1025.pdf"
   weight = 2
 
 [[main]]
   name = "Resume"
   parent = "About Me"
-  url = "resume_rmcelroy.pdf"
+  url = "https://www.canva.com/design/DAG2w4W1HFY/GB0vW5uTB6c7FwKhYlg6Mw/view?utm_content=DAG2w4W1HFY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4af25a898e"
   weight = 3
 
 [[main]]
