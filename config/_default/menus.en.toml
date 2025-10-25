@@ -13,7 +13,7 @@
 [[main]]
   name = "CV"
   parent = "About Me"
-  url = "/files/CV.pdf"
+  url = "/files/CV_1025.pdf"
   weight = 2
 
 [[main]]
