@@ -1,16 +1,8 @@
 ---
 showReadingTime: false
-showDate: false
-
-highlights:
-  - title: "Close AGN Reference Survey (CARS)"
-    text: "A multi-wavelength survey of nearby active galaxies to link SMBH activity with host-galaxy physics."
-    href: "https://cars-survey.github.io"
-  - title: "Rubin / LSST AGN variability"
-    text: "Understanding how and why supermassive black holes switch on and off using long-baseline time-domain data."
-    href: "https://agn.science.lsst.org/"
-  - title: "IFU surveys & galaxy mergers"
-    text: "Using SAMI, Hector, and MUSE to study kinematics, gas, and evolution in interacting galaxies."
+#showAuthor: false
+showDate: false       # optional – also hides the date if it appears
+showReadingTime: false
 ---
 
 I am a Research Fellow in the [Centre for Astrophysics](https://www.unisq.edu.au/research/institutes-centres/iaess/centre-for-astrophysics) at the [University of Southern Queensland](https://www.unisq.edu.au/). I am based, however, in Sydney where I hold honorary appointments at the [University of Sydney](https://sifa.sydney.edu.au/) and [Macquarie University](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies). Throughout the week you can usually find me at SIfA on Mondays, Macquarie on Fridays, and working from home the rest of the week. I'm usually on UniSQ campus once a month, so if you need to see me in person just let me know and we can coordinate.  

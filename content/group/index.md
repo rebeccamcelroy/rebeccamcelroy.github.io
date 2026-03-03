@@ -12,11 +12,11 @@ showReadingTime: false
 Leads the Close AGN Reference Survey (CARS) investigating the physics of nearby active galaxies. Co-chair of the LSST AGN Science Collaboration’s Watchlist and Follow-up Working Groups, and member of the HECTOR team - an Australian next-generation integral-field spectrograph for galaxy evolution studies.
 {{< /person >}}
 
-{{< person src="thomas.jpg" name="Thomas Dunn" role="Honours Student" >}}
+{{< person src="thomas.jpg" name="Thomas Dunn" role="PhD Student" >}}
 Combining archival photographic plates with contemporary multi-wavelength observations to build a century-long light curve of the changing-look active galaxies Mrk 1018. His work bridges historical datasets with modern time-domain astronomy to trace accretion-rate evolution over decades.
 {{< /person >}}
 
-{{< person src="nicole.png" name="Nicole Jenkins" role="Honours Student" >}}
+{{< person src="nicole.png" name="Nicole Jenkins" role="PhD Student" >}}
 Exploring how galaxy interactions influence star formation using the SAMI Galaxy Survey. Her research looks at the spatial distribution of star formation in paired and isolated galaxies to quantify merger-driven triggers and quenching.
 {{< /person >}}
 
