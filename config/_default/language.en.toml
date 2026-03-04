@@ -10,6 +10,7 @@ bio = "Research Fellow & Digital Artist"
 
 links = [
   { twitter = "https://twitter.com/re_mcelroy" },
+  { bluesky = "https://bsky.app/profile/breaky.bsky.social" },
   { github = "https://github.com/rebeccamcelroy" },
   { linkedin = "https://www.linkedin.com/in/rebecca-mcelroy/" },
   { email = "mailto:rebecca.mcelroy@unisq.edu.au" },
