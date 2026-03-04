@@ -8,7 +8,7 @@ showReadingTime: false
 
 
 
-{{< person src="rebecca.jpeg" name="Dr Rebecca McElroy" role="Group Lead" email="rebecca.mcelroy@unisq.edu.au" >}}
+{{< person src="space_award.png" name="Dr Rebecca McElroy" role="Group Lead" email="rebecca.mcelroy@unisq.edu.au" >}}
 Leads the Close AGN Reference Survey (CARS) investigating the physics of nearby active galaxies. Co-chair of the LSST AGN Science Collaboration’s Watchlist and Follow-up Working Groups, and member of the HECTOR team - an Australian next-generation integral-field spectrograph for galaxy evolution studies.
 {{< /person >}}
 
