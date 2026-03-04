@@ -84,4 +84,35 @@
   url = "https://www.redbubble.com/people/paintingbybex/shop"
   weight = 4
 
+# Footer menu with social links
+[[footer]]
+  name = "Email"
+  url = "mailto:rebecca.mcelroy@unisq.edu.au"
+  weight = 1
+
+[[footer]]
+  name = "Bluesky"
+  url = "https://bsky.app/profile/breaky.bsky.social"
+  weight = 2
+
+[[footer]]
+  name = "Twitter"
+  url = "https://twitter.com/re_mcelroy"
+  weight = 3
+
+[[footer]]
+  name = "GitHub"
+  url = "https://github.com/rebeccamcelroy"
+  weight = 4
+
+[[footer]]
+  name = "ORCID"
+  url = "https://orcid.org/0000-0002-7960-5808"
+  weight = 5
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/rebecca-mcelroy/"
+  weight = 6
+
 
