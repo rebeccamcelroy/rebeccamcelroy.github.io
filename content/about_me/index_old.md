@@ -2,7 +2,6 @@
 showReadingTime: false
 #showAuthor: false
 showDate: false       # optional – also hides the date if it appears
-showReadingTime: false
 ---
 
 I am a Research Fellow in the [Centre for Astrophysics](https://www.unisq.edu.au/research/institutes-centres/iaess/centre-for-astrophysics) at the [University of Southern Queensland](https://www.unisq.edu.au/). I am based, however, in Sydney where I hold honorary appointments at the [University of Sydney](https://sifa.sydney.edu.au/) and [Macquarie University](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies). Throughout the week you can usually find me at SIfA on Mondays, Macquarie on Fridays, and working from home the rest of the week. I'm usually on UniSQ campus once a month, so if you need to see me in person just let me know and we can coordinate.  
