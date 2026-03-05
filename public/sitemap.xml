@@ -12,13 +12,7 @@
     <loc>http://localhost:1313/meal_deals/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/outreach/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/sci_art/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/study_unisq/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/useful_links/</loc>
@@ -28,5 +22,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/group/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/outreach/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/study_unisq/</loc>
   </url>
 </urlset>

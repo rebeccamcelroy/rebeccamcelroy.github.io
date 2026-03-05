@@ -1,0 +1,99 @@
+/* Custom background for article pages without hero gap */
+article {
+  position: relative;
+  color: white;
+}
+
+article::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url('/img/tarantula.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+/* White text for article content */
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  color: white;
+}
+
+article p {
+  color: white;
+}
+
+article a {
+  color: #eb80f9;
+  text-decoration: underline;
+}
+
+article a:hover {
+  color: #eb80f9;
+}
+
+article ul::marker,
+article ol::marker,
+article li::marker {
+  color: white;
+}
+
+article li {
+  color: white;
+}
+
+article code {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0.2em 0.4em;
+  border-radius: 0.3em;
+}
+
+article pre {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 1em;
+  border-radius: 0.5em;
+  overflow-x: auto;
+}
+
+article blockquote {
+  color: white;
+  border-left-color: #eb80f9;
+}
+
+/* Wrap text around markdown-rendered figures in article pages */
+article figure.wrap-right-award {
+  float: right;
+  width: clamp(180px, 28vw, 320px);
+  margin: 0.25rem 0 1rem 1.25rem;
+}
+
+article figure.wrap-left-award {
+  float: left;
+  width: clamp(180px, 28vw, 320px);
+  margin: 0.25rem 1.25rem 1rem 0;
+}
+
+article figure.wrap-right-award img,
+article figure.wrap-left-award img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  article figure.wrap-right-award,
+  article figure.wrap-left-award {
+    float: none;
+    width: min(100%, 320px);
+    margin: 0.5rem auto 1rem auto;
+  }
+}

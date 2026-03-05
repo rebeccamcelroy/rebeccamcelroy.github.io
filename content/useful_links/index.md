@@ -1,6 +1,8 @@
 ---
 showReadingTime: false
 showDate: false       # optional – also hides the date if it appears
+showAuthor: false
+showWordCount: false
 ---
 
 Here I've collated useful links that may come in handy. 

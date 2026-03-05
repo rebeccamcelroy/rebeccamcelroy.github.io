@@ -1,6 +1,9 @@
 ---
 showReadingTime: false
 showDate: false
+showAuthor: false
+showWordCount: false
+
 
 schema:
   "@context": "https://schema.org"
@@ -38,18 +41,29 @@ highlights:
     text: "Using SAMI, Hector, and MUSE to study kinematics, gas, and evolution in interacting galaxies."
 ---
 
+
+{{< figure src="/img/rainbow.jpg" alt="me" figureClass="wrap-right-award" >}}
+
+## Who am I?
+
 I am a Research Fellow in the [Centre for Astrophysics](https://www.unisq.edu.au/research/institutes-centres/iaess/centre-for-astrophysics) at the [University of Southern Queensland](https://www.unisq.edu.au/). I am based, however, in Sydney where I hold honorary appointments at the [University of Sydney](https://sifa.sydney.edu.au/) and [Macquarie University](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies). Throughout the week you can usually find me at SIfA on Mondays, Macquarie on Fridays, and working from home the rest of the week. I'm usually on UniSQ campus once a month, so if you need to see me in person just let me know and we can coordinate.  
+
+## What do I work on?
 
 I work on how nearby galaxies evolve, focussing on several themes:
 - How do the supermassive black holes that live in the centres of galaxies impact their hosts?
 - How do these supermassive black holes evolve? How do they switch on and off?
 - What happens to galaxies when they undergo collisions?
+
+{{< figure src="/img/vlt.jpg" alt="telescope" caption="At the Very Large Telescope in Chile." figureClass="wrap-left-award" >}}
  
  I lead the [The Close AGN Reference Survey](https://cars-survey.github.io), which looks at local active galaxies across the electromagnetic spectrum to address these questions. I am also co-chair of two of the [Legacy Survey of Space and Time](https://www.lsst.org/) [Active Galaxy Science Collaboration](https://agn.science.lsst.org/) sub-groups focussed on variability. I am a member of the [Sydney AAO Multi-object IFU (SAMI)](https://sami-survey.org/) and [Hector](https://hector.survey.org.au/) Galaxy Survey teams, which are Australian lead and run surveys of thousands of nearby galaxies conducted at the [Anglo-Australian Telescope](https://aat.anu.edu.au/front) in Coonabarabran, NSW. 
 
+ ## My career
+
 In 2025 I was honoured to recieve a Women in STEM Breaking Barriers award from the [Queensland Museum](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#winners).
 
-![Queensland Museum Women in STEM Breaking Barriers Award](/img/space_award.png)
+{{< figure src="/img/award.jpeg" alt="Queensland Museum Women in STEM Breaking Barriers Award" caption="Recieving the award from Fiona Simpson MP, Queensland's Minister for Women." figureClass="wrap-right-award" >}}
 
 I am passionate about astronomy and love to participate in teaching and outreach. I have 10 years teaching experience in Astronomy and Physics at the University of Sydney, University of Queensland, and University of Southern Queensland. Over this time I have been involved in course coordination, course material creation, lecturing and tutoring, and exam creation and marking. 
 

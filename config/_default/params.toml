@@ -5,8 +5,22 @@ defaultAppearance = "dark"
 colorScheme = "princess"
 logo = "/img/cat.png"
 highlightCurrentMenuArea = true
-article.showHero = true
 
+[article]
+  showHero = false
+  heroStyle = "background"
+
+[list]
+  showHero = true
+  heroStyle = "background"
+
+[taxonomy]
+  showHero = true
+  heroStyle = "background"
+
+[term]
+  showHero = true
+  heroStyle = "background"
 
 [header]
   layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -19,7 +33,7 @@ article.showHero = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 10

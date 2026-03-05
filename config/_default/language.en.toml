@@ -2,9 +2,9 @@
 
 title = "Dr Rebecca McElroy"
 
-[author]
+[params.author]
 name = "Dr Rebecca McElroy"
-image = "/assets/img/space_award.png"
+image = "img/space_award.png"
 headline = "Research Fellow & Digital Artist"
 bio = "Research Fellow & Digital Artist"
 

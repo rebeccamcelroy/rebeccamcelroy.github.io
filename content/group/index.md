@@ -4,6 +4,7 @@ layout: "group"       # we'll make a simple layout (optional; see Option A.2)
 showAuthor: false
 showDate: false       # optional – also hides the date if it appears
 showReadingTime: false
+showWordCount: false
 ---
 
 

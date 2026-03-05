@@ -1,8 +1,10 @@
 ---
-#showAuthor: false
+showAuthor: false
 showDate: false       # optional – also hides the date if it appears
 showReadingTime: false
+showWordCount: false
 ---
+![UniSQ](/img/art_all.png)
 
 Art has been a lifelong hobby of mine. I have always loved to draw and paint. Recently I have been drawing astronomical observatories, some of which are shown above. Want a drawing of your telescope? Shoot me an [email](mailto:rebecca.mcelroy@unisq.edu.au) or a DM on [instagram](instagram.com/paintingbybex) or [twitter](twitter.com/re_mcelroy).
 
