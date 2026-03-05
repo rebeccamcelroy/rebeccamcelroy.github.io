@@ -97,3 +97,30 @@ article figure.wrap-left-award img {
     margin: 0.5rem auto 1rem auto;
   }
 }
+
+/* Override theme width constraints for full-width article content */
+article #single_header {
+  max-width: 80% !important;
+}
+
+article header {
+  max-width: 80% !important;
+}
+
+article .article-content {
+  max-width: 80% !important;
+}
+
+article footer {
+  max-width: 80% !important;
+}
+
+/* Remove prose max-width constraint */
+section.prose {
+  max-width: 80% !important;
+}
+
+/* Full-width for homepage background layout */
+.home-background {
+  max-width: 80% !important;
+}
