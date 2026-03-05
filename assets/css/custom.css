@@ -114,3 +114,12 @@ article .article-content.max-w-prose {
 article footer.max-w-prose {
   max-width: 90% !important;
 }
+
+/* Homepage profile photo - make it bigger (192px instead of 144px) */
+.home-background img.rounded-full,
+img.rounded-full[alt="Dr Rebecca McElroy"] {
+  width: 192px !important;
+  height: 192px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}

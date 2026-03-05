@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://rebeccamcelroy.github.io/about_me/</loc>
+    <loc>http://localhost:60217/about_me/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/art_about/</loc>
+    <loc>http://localhost:60217/art_about/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/meal_deals/</loc>
+    <loc>http://localhost:60217/meal_deals/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/sci_art/</loc>
+    <loc>http://localhost:60217/sci_art/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/useful_links/</loc>
+    <loc>http://localhost:60217/useful_links/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/</loc>
+    <loc>http://localhost:60217/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/group/</loc>
+    <loc>http://localhost:60217/group/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/outreach/</loc>
+    <loc>http://localhost:60217/outreach/</loc>
   </url>
   <url>
-    <loc>https://rebeccamcelroy.github.io/study_unisq/</loc>
+    <loc>http://localhost:60217/study_unisq/</loc>
   </url>
 </urlset>
