@@ -55,6 +55,12 @@
   pageRef = "useful_links"
   weight = 3
 
+[[main]]
+  name = "Talks"
+  parent = "Research"
+  pageRef = "talks"
+  weight = 4
+
 
 [[main]]
   name = "Art"
