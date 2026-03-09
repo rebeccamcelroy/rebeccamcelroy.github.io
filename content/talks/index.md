@@ -8,5 +8,5 @@ showWordCount: false
 Here you can find links to my talks and presentations. 
 
 Tutorials and how-tos: 
-- (How to present at a journal club)[https://drive.google.com/file/d/1izTjvmpJQOzM5MZh92SPjss4CtTKFnfL/view?usp=sharing]
+- Need to present at a journal club and not sure where to start? Here is a [guide and example presentation.](https://drive.google.com/file/d/1izTjvmpJQOzM5MZh92SPjss4CtTKFnfL/view?usp=sharing)
 
