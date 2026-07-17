@@ -22,7 +22,11 @@ Exploring how galaxy interactions influence star formation using the SAMI Galaxy
 {{< /person >}}
 
 {{< person src="josh.jpg" name="Joshua Bardwell" role="PhD Student" >}}
-Investigating the stellar populations and host-galaxy environments of nearby AGN observed in the Close AGN Reference Survey. Combining MUSE and KOALA integral-field spectroscopy to disentangle AGN ionization, star-formation histories, and feedback signatures.
+Working with scientists to better communicate and educate the public on their work. Josh frequently posts videos, explainers, and hosts events. Check out his work [here](https://lnk.bio/sposh20).
+{{< /person >}}
+
+{{< person src="person.png" name="Matt Battam" role="Masters Student" >}}
+Investigating the stellar populations and host-galaxy environments of nearby AGN observed in the Close AGN Reference Survey. Combining MUSE and KOALA integral-field spectroscopy to disentangle AGN ionization, star-formation histories, and feedback signatures..
 {{< /person >}}
 
 <!-- {{< person src="kai.jpg" name="Kai S." role="MPhil — IFU Kinematics in Mergers" email="kai@..." >}}
