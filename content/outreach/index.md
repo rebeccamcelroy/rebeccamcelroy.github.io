@@ -11,7 +11,9 @@ showTitle: True
 
 {{< figure src="/img/purple.jpg" alt="purple" caption="Presenting at the Science and Engineering 'Wear it Purple' event in 2025. " figureClass="wrap-right-award" >}}
 
-Need an astronomy expert? I do frequent outreach work in schools, pubs, on the radio, and occasionally even on TV. 
+{{< figure src="/img/telescope.jpg" alt="purple" caption="Looking at the Sun through a telescope at UniSQ Open Day" figureClass="wrap-right-award" >}}
+
+Need an astronomy expert? I do frequent outreach work in schools, pubs, on the radio, and occasionally even on [TV!](https://youtu.be/JR1tZaEkjLE?si=LoVckXFusfg61giw). 
 
 I am a passionate advocate for underrepresented groups in science. In my capacity as a queer disabled woman, I believe it is important to be visible and to share my experiences so that young people from similar backgrounds can see that a career in science is possible. In recognition of this I was awarded a Queensland Museum award for Breaking Barriers in STEM. 
 
