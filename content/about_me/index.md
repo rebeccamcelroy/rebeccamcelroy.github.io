@@ -61,11 +61,11 @@ I work on how nearby galaxies evolve, focussing on several themes:
 
  ## My career
 
-In 2025 I was honoured to recieve a Women in STEM Breaking Barriers award from the [Queensland Museum](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#winners).
+In 2025 I was honoured to recieve a Women in STEM Breaking Barriers award from the [Queensland Museum](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#winners). This year I was awarded an [Australian Institute for Policy and Science](https://aips.org.au/ytpawards) Young Tall Poppy Award, you can read more about this in the [UniSQ press release here](https://www.unisq.edu.au/news/2026/09/rebecca-mcelroy-young-tall-poppy).
 
 {{< figure src="/img/award.jpeg" alt="Queensland Museum Women in STEM Breaking Barriers Award" caption="Recieving the award from Fiona Simpson MP, Queensland's Minister for Women." figureClass="wrap-right-award" >}}
 
-I am passionate about astronomy and love to participate in teaching and outreach. I have 10 years teaching experience in Astronomy and Physics at the University of Sydney, University of Queensland, and University of Southern Queensland. Over this time I have been involved in course coordination, course material creation, lecturing and tutoring, and exam creation and marking. 
+I am passionate about astronomy and love to participate in teaching and outreach. I have more than a decade of teaching experience in Astronomy and Physics at the University of Sydney, University of Queensland, and University of Southern Queensland. Over this time I have been involved in course coordination, course material creation, lecturing and tutoring, and exam creation and marking. 
 
 Previously, I was at the University of Queensland, the University of Sydney, and the Max Plank Institute for Astronomy in Heidelberg, Germany. I completed my PhD at the University of Sydney on integral field spectroscopic observations of active galactic nuclei. The aim of my thesis was to investigate how supermassive black holes and the galaxies they live in interact and coevolve. I was supervised by Professor Scott Croom and worked with The SAMI Galaxy Survey and The Close AGN Reference Survey teams. Part of my thesis was focused on a serendipitously discovered two-time changing look active galaxy, which resulted in [multiple](https://www.sydney.edu.au/news-opinion/news/2016/09/16/_starving_-black-hole-returns-galaxy-mrk-1018-to-the-shadows.html) press releases.
 

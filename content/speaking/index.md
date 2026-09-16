@@ -17,22 +17,25 @@ I have received a **Queensland Museum Women in STEM Breaking Barriers Award** an
 ## Topics I speak on
 
 **Astronomy & Astrophysics**
+
+I'm happy to talk about astronomy and any aspect of it — from the basics to the cutting edge. My areas of expertise include:
+
 - Supermassive black holes and active galactic nuclei
-- Galaxy evolution and galaxy collisions
-- Changing-look AGN: black holes that switch on and off
+- Galaxy evolution 
 - The Rubin Observatory / LSST and the future of time-domain astronomy
-- How astronomers use integral field spectroscopy
+- Optical Astronomy & Spectroscopy
 
 **Careers & Broader Themes**
 - What it's like to be an astronomer
-- Women, LGBTQ+, and disabled people in STEM
+- Lived experience as a queer and disabled woman in STEM
 - Navigating an academic career
+- How to give good science talks
 
 ---
 
 ## Types of events
 
-- School visits and physics days
+- Talks in schools
 - Public astronomy nights and science festivals
 - University seminars and colloquia
 - Podcast and radio appearances
