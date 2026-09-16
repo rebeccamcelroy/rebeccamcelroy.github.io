@@ -50,6 +50,16 @@
   weight = 3
 
 [[main]]
+  name = "Speaker Enquiries"
+  pageRef = "speaking"
+  weight = 35
+
+[[main]]
+  name = "Follow Me"
+  pageRef = "follow"
+  weight = 5
+
+[[main]]
   name = "Useful links"
   parent = "Research"
   pageRef = "useful_links"
@@ -102,9 +112,14 @@
   weight = 2
 
 [[footer]]
-  name = "Twitter"
+  name = "Twitter/X"
   url = "https://twitter.com/re_mcelroy"
   weight = 3
+
+[[footer]]
+  name = "Instagram"
+  url = "https://www.instagram.com/paintingbybex"
+  weight = 35
 
 [[footer]]
   name = "GitHub"

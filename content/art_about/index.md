@@ -6,7 +6,7 @@ showWordCount: false
 ---
 ![UniSQ](/img/art_all.png)
 
-Art has been a lifelong hobby of mine. I have always loved to draw and paint. Recently I have been drawing astronomical observatories, some of which are shown above. Want a drawing of your telescope? Shoot me an [email](mailto:rebecca.mcelroy@unisq.edu.au) or a DM on [instagram](instagram.com/paintingbybex) or [twitter](twitter.com/re_mcelroy).
+Art has been a lifelong hobby of mine. I have always loved to draw and paint. Recently I have been drawing astronomical observatories, some of which are shown above. Want a drawing of your telescope? Shoot me an [email](mailto:rebecca.mcelroy@unisq.edu.au) or a DM on [Instagram](https://www.instagram.com/paintingbybex) or [Twitter](https://twitter.com/re_mcelroy).
 
 I also do a lot of portaiture of characters from TV and video games, and make stickers on [redbubble](https://www.redbubble.com/people/paintingbybex/shop). 
 

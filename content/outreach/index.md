@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-showAuthorBottom: True
+showAuthorBottom: false
 showDate: false       # optional – also hides the date if it appears
 showReadingTime: false
 showWordCount: false

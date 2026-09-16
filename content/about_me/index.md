@@ -27,7 +27,7 @@ schema:
     "https://bsky.app/profile/breaky.bsky.social",
     "https://github.com/rebeccamcelroy",
     "https://www.linkedin.com/in/rebecca-mcelroy/",
-    "https://www.instagram.com/paintingbybex/"
+    "https://www.instagram.com/dr_rebecca_mcelroy/"
   ]
 
 highlights:
